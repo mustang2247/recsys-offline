@@ -1,8 +1,9 @@
   Recsys-offline
 
   What is it? <br />  
-  Swift是一个推荐系统的离线计算部分，基础数据采用Swift采集的数据，它： <br />  
-  1.基于Hadoop，Mahout，HBase，Zookper开发的 <br />  
+  Swift是一个推荐系统的离线计算部分，基础数据采用Swift采集的数据，它： <br /> 
+
+  1.基于Hadoop，Mahout，HBase，Zookper开发的 <br /> 
   2.目前的算法只支持分布式Item-based，Kmeans的推荐 <br /> 
   3.支持简单的可配置 <br /> 
   4.支持定时和协同两种工作模式 <br /> 
