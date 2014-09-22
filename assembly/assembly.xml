@@ -19,7 +19,6 @@
         <include>conf/log4j.conf</include>
         <include>LICENSE</include>
         <include>README.md</include>
-        <include>logo.jpg</include>
       </includes>
     </fileSet>
   </fileSets>
